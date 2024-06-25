@@ -1,5 +1,8 @@
-tsc 
-tsc filename.ts
-tsc --init
-target, outDir
-tsc --project ./tsconfig.json
+- tsc 
+- tsc filename.ts
+- tsc --init
+- target, outDir
+- tsc --project ./tsconfig.json
+- tsc --noEmmitOnError file.ts
+- tsc --noEmitOnError --target es6 file.ts
+- 
